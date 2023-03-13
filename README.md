@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Basseybd
 - 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me email me at bassey.bd@gmail.com
 
