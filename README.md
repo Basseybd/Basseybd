@@ -3,7 +3,7 @@
 <p align="left">👀 I’m a full-stack developer with almost 4 years at Accenture and DevOps experience.<br><br>🌱 I’m currently focused on exploring new front-end technologies like Next.js and integrating AI into my back-end applications.<br><br>💞️ I’m always looking to collaborate on front-end, full-stack, or AI-related projects!</p>
 
 <p align="left">
-  🌐 Check out my <a href="https://www.basseyduke.io" target="_blank">portfolio website</a> for more about my projects!
+  🌐 Check out my <a href="https://www.basseyduke.io" target="_blank" rel="noopener noreferrer">portfolio website</a> for more about my projects!
 </p>
 
 <h2 align="left">Github Stats</h2>
@@ -48,18 +48,16 @@
 <h2 align="left">Reach out to me via:</h2>
 
 <div align="left">
-  <a href="mailto:bassey.bd@gmail.com" target="_blank">
+  <a href="mailto:bassey.bd@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/basseyduke/" target="_blank">
+  <a href="https://www.linkedin.com/in/basseyduke/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
+
 <img src="https://raw.githubusercontent.com/basseybd/basseybd/output/snake.svg" alt="Snake animation" />
+
 <div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW92cGloZmplcjI4dGt3dGNqZmt2YWF3OXU4NjV2Z3dtNTlkamdlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif"  />
 </div>
-
-###
-
-
