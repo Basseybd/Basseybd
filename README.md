@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I’m @Basseybd</h1>
+<h1 align="left">👋 Hi, I’m Bassey!</h1>
 
 <p align="left">
   👀 I’m a full-stack developer with 5+ years of experience.<br><br>
