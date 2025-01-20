@@ -1,6 +1,10 @@
 <h1 align="left">👋 Hi, I’m @Basseybd</h1>
 
-<p align="left">👀 I’m a full-stack developer with almost 4 years at Accenture and DevOps experience.<br><br>🌱 I’m currently focused on exploring new front-end technologies like Next.js and integrating AI into my back-end applications.<br><br>💞️ I’m always looking to collaborate on front-end, full-stack, or AI-related projects!</p>
+<p align="left">
+  👀 I’m a full-stack developer with 5+ years of experience.<br><br>
+  🌱 Currently, I’m focused on building scalable apps with Next.js/TypeScript and integrating AI into back-end services using Python and AWS.<br><br>
+  💞️ I’m always looking to collaborate on front-end, full-stack, or AI-driven projects. Feel free to reach out!
+</p>
 
 <p align="left">
   🌐 Check out my <a href="https://www.basseyduke.io" target="_blank" rel="noopener noreferrer">portfolio website</a> for more about my projects!
