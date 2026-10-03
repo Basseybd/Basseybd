@@ -1,67 +1,10 @@
-<h1 align="left">👋 Hi, I’m Bassey!</h1>
+<a href="https://basseyduke.io"><img src="assets/banner.svg" alt="Bassey Duke. clickity clack. will code for funds. Senior software engineer, New York." width="100%" /></a>
 
-<p align="left">
-  👀 I’m a full-stack developer with 5+ years of experience.<br><br>
-  🌱 Currently, I’m focused on building scalable apps with Next.js/TypeScript and integrating AI into back-end services using Python and AWS.<br><br>
-  💞️ I’m always looking to collaborate on front-end, full-stack, or AI-driven projects. Feel free to reach out!
-</p>
+I build AI features people actually use, then spend the rest of my time getting LLMs to behave. Photographer when the laptop's closed. Open to AI contract work.
 
-<p align="left">
-  🌐 Check out my <a href="https://www.basseyduke.io" target="_blank" rel="noopener noreferrer">portfolio website</a> for more about my projects!
-</p>
+[basseyduke.io](https://basseyduke.io) · [LinkedIn](https://www.linkedin.com/in/basseyduke/) · [@bassey.archive](https://www.instagram.com/bassey.archive/) · [Email](mailto:bassey.bd@gmail.com)
 
-<h2 align="left">Github Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basseybd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Basseybd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-<h2 align="left">Tech Stack</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-</div>
-
-<h2 align="left">Reach out to me via:</h2>
-
-<div align="left">
-  <a href="mailto:bassey.bd@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/basseyduke/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
-
-<img src="https://raw.githubusercontent.com/basseybd/basseybd/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW92cGloZmplcjI4dGt3dGNqZmt2YWF3OXU4NjV2Z3dtNTlkamdlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/basseybd/basseybd/output/github-snake-dark.svg" />
+  <img alt="A snake eating my contribution graph" src="https://raw.githubusercontent.com/basseybd/basseybd/output/github-snake.svg" width="100%" />
+</picture>
