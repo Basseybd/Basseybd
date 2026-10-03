@@ -1,6 +1,4 @@
-<a href="https://basseyduke.io"><img src="assets/banner.svg" alt="Bassey Duke. clickity clack. will code for funds. Senior software engineer, New York." width="100%" /></a>
-
-I build AI features people actually use, then spend the rest of my time getting LLMs to behave. Photographer when the laptop's closed. Open to AI contract work.
+Will codew for funds
 
 [basseyduke.io](https://basseyduke.io) · [LinkedIn](https://www.linkedin.com/in/basseyduke/) · [@bassey.archive](https://www.instagram.com/bassey.archive/) · [Email](mailto:bassey.bd@gmail.com)
 
