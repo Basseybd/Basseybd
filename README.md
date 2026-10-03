@@ -1,4 +1,4 @@
-Will codew for funds
+Will code for funds; I also like taking photos
 
 [basseyduke.io](https://basseyduke.io) · [LinkedIn](https://www.linkedin.com/in/basseyduke/) · [@bassey.archive](https://www.instagram.com/bassey.archive/) · [Email](mailto:bassey.bd@gmail.com)
 
